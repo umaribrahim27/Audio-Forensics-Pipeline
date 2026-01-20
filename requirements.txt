@@ -1,0 +1,21 @@
+# Core
+numpy>=1.23
+scipy>=1.10
+pandas>=2.0
+
+# Audio
+librosa>=0.10.1
+soundfile>=0.12.1
+
+# ML / DL
+tensorflow>=2.12
+keras>=2.12
+
+# Visualization (rendering PNGs)
+matplotlib>=3.7
+
+# App
+streamlit>=1.28
+
+# Utilities
+tqdm>=4.66

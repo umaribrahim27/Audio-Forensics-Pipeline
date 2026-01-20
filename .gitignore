@@ -1,0 +1,60 @@
+# ============================
+# OS / Editor
+# ============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ============================
+# Python
+# ============================
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+ENV/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ============================
+# Jupyter / Notebooks
+# ============================
+notebooks/
+.ipynb_checkpoints/
+
+# ============================
+# DATA (local only)
+# ============================
+data/
+
+# ============================
+# GENERATED OUTPUTS (local only)
+# ============================
+artifacts/
+checkpoints/
+results/
+features/
+logs/
+cache/
+tmp/
+
+# ============================
+# Numpy/serialization dumps (feature caches, stats, etc.)
+# ============================
+*.npy
+*.npz
+*.pkl
+*.joblib
+
+# ============================
+# Streamlit
+# ============================
+.streamlit/
