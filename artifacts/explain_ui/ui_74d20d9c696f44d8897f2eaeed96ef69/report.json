@@ -1,0 +1,44 @@
+{
+  "utt_id": "ui_74d20d9c696f44d8897f2eaeed96ef69",
+  "wav_path": "/Users/seecsy/main/artifacts/tmp_uploads/upload_74765377cca24f4ab54d0ac696224f4f.flac",
+  "p_fake": 0.9796909093856812,
+  "top_time_frames": [
+    15,
+    93,
+    14,
+    284,
+    8,
+    12,
+    13,
+    283,
+    101,
+    10
+  ],
+  "top_time_seconds": [
+    0.15,
+    0.93,
+    0.14,
+    2.84,
+    0.08,
+    0.12,
+    0.13,
+    2.83,
+    1.01,
+    0.1
+  ],
+  "time_entropy": 5.9426220178590965,
+  "time_concentration": 0.15785717354702056,
+  "top_mel_bins": [
+    22,
+    23,
+    53,
+    29,
+    67,
+    45,
+    4,
+    21,
+    3,
+    27
+  ],
+  "freq_entropy": 4.372581458517738
+}

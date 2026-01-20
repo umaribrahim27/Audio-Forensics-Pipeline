@@ -1,14 +1,10 @@
-# ============================
 # OS / Editor
-# ============================
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
 
-# ============================
 # Python
-# ============================
 __pycache__/
 *.py[cod]
 *.pyd
@@ -24,43 +20,9 @@ env/
 .mypy_cache/
 .ruff_cache/
 
-# ============================
-# Jupyter / Notebooks
-# ============================
+# Notebooks (optional)
 notebooks/
 .ipynb_checkpoints/
 
-# ============================
-# DATA (local only)
-# ============================
+# ONLY ignore dataset
 data/
-
-# ============================
-# GENERATED OUTPUTS (local only)
-# ============================
-artifacts/
-checkpoints/
-results/
-features/
-logs/
-cache/
-tmp/
-
-# ============================
-# Numpy/serialization dumps (local caches)
-# ============================
-*.npy
-*.npz
-*.pkl
-*.joblib
-
-# ============================
-# Streamlit
-# ============================
-.streamlit/
-
-# ============================
-# Pretrained (tracked)
-# ============================
-!pretrained/
-!pretrained/**

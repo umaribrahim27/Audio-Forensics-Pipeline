@@ -1,0 +1,13 @@
+{
+  "sr": 16000,
+  "duration_s": 4.0,
+  "n_mels": 80,
+  "n_fft": 1024,
+  "hop_length": 160,
+  "n_mfcc": 20,
+  "n_lfcc": 20,
+  "n_cqcc": 20,
+  "batch_size": 16,
+  "learning_rate": 0.001,
+  "stats_file": "stats_train3000_v1.npz"
+}

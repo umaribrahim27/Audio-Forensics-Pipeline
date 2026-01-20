@@ -1,0 +1,51 @@
+{
+  "utt_id": "LA_E_4148661",
+  "wav_path": "/Users/seecsy/main/data/LA/ASVspoof2019_LA_eval/flac/LA_E_4148661.flac",
+  "label": 1,
+  "split": "eval",
+  "attack": "A16",
+  "p_fake": 0.9989192485809326,
+  "top_time_frames": [
+    3,
+    4,
+    5,
+    6,
+    8,
+    2,
+    7,
+    125,
+    123,
+    127
+  ],
+  "top_time_seconds": [
+    0.03,
+    0.04,
+    0.05,
+    0.06,
+    0.08,
+    0.02,
+    0.07,
+    1.25,
+    1.23,
+    1.27
+  ],
+  "time_entropy": 5.815038035502729,
+  "time_concentration": 0.22777820447502134,
+  "top_mel_bins": [
+    6,
+    45,
+    21,
+    55,
+    7,
+    3,
+    19,
+    4,
+    48,
+    37
+  ],
+  "freq_entropy": 4.3578082752648255,
+  "mel_shape": [
+    80,
+    401
+  ]
+}
