@@ -47,7 +47,7 @@ cache/
 tmp/
 
 # ============================
-# Numpy/serialization dumps (feature caches, stats, etc.)
+# Numpy/serialization dumps (local caches)
 # ============================
 *.npy
 *.npz
@@ -58,3 +58,9 @@ tmp/
 # Streamlit
 # ============================
 .streamlit/
+
+# ============================
+# Pretrained (tracked)
+# ============================
+!pretrained/
+!pretrained/**
